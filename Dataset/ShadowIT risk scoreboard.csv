@@ -1,0 +1,16 @@
+ToolName,Category,Department,UserCount,DataSensitivity,MFAEnabled,QATested,ApprovalStatus,RiskScore,CVE_ID,CVSS_Score,CVE_Description,CorporateAlternative
+Zoom,Video Conferencing,Sales,47,High,NO,NO,Rejected,9.5, CVE-2022-22787,7.5,Zoom Client RCE via chat feature,Microsoft Teams
+Slack,Messaging,Engineering,89,Medium,YES,YES,Approved,4.5,CVE-2025-34072,6.5,Slack token theft via malicious links,Microsoft Teams
+Dropbox,File Sharing,Finance,34,High,NO,NO,Rejected,6,(null),(null),(null),OneDrive
+Google Drive,Cloud Storage,Marketing,62,Medium,YES,NO,Pending,6.9,(null),(null),(null),SharePoint
+WhatsApp,Messaging,Operations,28,High,NO,NO,Rejected,9.8,CVE-2019-3568,9.8,buffer overflow vulnerability in WhatsApp VOIP stack allowed remote code execution,Microsoft Teams
+GitHub,Code Hosting,Engineering,55,High,YES,YES,Approved,9.8,CVE-2023-34111,9.8, Command Injection Vulnerability,Azure DevOps
+Discord,Messaging,IT,19,High,NO,NO,Rejected,9,(null),(null),(null),Microsoft Teams
+Trello,Project Management,HR,14,Low,NO,NO,Pending,5,(null),(null),(null),Planner
+Notion,Documentation,Design,23,Low,YES,YES,Approved,2,(null),(null),(null),SharePoint
+WeTransfer,File Transfer,Legal,8,High,NO,NO,Rejected,9,(null),(null),(null),OneDrive
+Figma,Design,Design,31,Medium,YES,NO,Approved,4,(null),(null),(null),Adobe XD
+Telegram,Messaging,Sales,5,High,NO,NO,Rejected,10.2,CVE-2016-10351,9,Telegram desktop directory permission vulnerability,Microsoft Teams
+Asana,Task Management,Operations,17,Low,YES,NO,Pending,3.5,(null),(null),(null),Planner
+Airtable,Database,Finance,12,Medium,YES,YES,Approved,3,(null),(null),(null),Microsoft Lists
+Canva,Graphic Design,Marketing,41,Low,NO,NO,Pending,5.5,(null),(null),(null),Adobe Express
